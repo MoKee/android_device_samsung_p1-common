@@ -146,6 +146,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 PRODUCT_PROPERTY_OVERRIDES += \
 	ro.bq.gpu_to_cpu_unsupported=1 \
+	ro.ksm.default=1
 
 # SGX540 is slower with the scissor optimization enabled
 PRODUCT_PROPERTY_OVERRIDES += \
@@ -176,7 +177,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Enable Low Ram Device flag
 # This is used by ActivityManager.isLowRamDevice()
-PRODUCT_PROPERTY_OVERRIDES += ro.config.low_ram=true
+PRODUCT_PROPERTY_OVERRIDES += \
+	ro.config.low_ram=true
 
 # we have enough storage space to hold precise GC data
 PRODUCT_TAGS += dalvik.gc.type-precise
