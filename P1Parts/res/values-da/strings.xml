@@ -17,13 +17,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Avancerede indstillinger</string>
-  <string name="category_tvout_title">TV-OUT</string>
-  <string name="tvout_enable_head">TV-OUT</string>
-  <string name="tvout_enable_summary_nocable">TV-OUT-kabel ikke tilsluttet</string>
-  <string name="tvout_enable_summary">TV-OUT-kabel tilsluttet, markér for at slå til</string>
-  <string name="tvout_enable_summary_on">TV-OUT slået til</string>
+  <string name="category_tvout_title">TV-Out</string>
+  <string name="tvout_enable_head">TV-Out</string>
+  <string name="tvout_enable_summary_nocable">TV-Out kablet er ikke tilsluttet</string>
+  <string name="tvout_enable_summary">TV Out-kabel tilsluttet, markér for at aktivere</string>
+  <string name="tvout_enable_summary_on">TV-Out aktiveret</string>
   <string name="tvout_system_head">TV-system</string>
-  <string name="tvout_system_summary">Indstil dit TV-system til TV-OUT</string>
+  <string name="tvout_system_summary">Indstil dit TV-system til TV-Out</string>
   <string name="hdmi_dock_summary_nodock">HDMI-dock ikke tilsluttet</string>
   <string name="hdmi_dock_summary">HDMI-dock tilsluttet, markér for at aktivere</string>
   <string name="hdmi_dock_summary_on">HDMI-dock aktiveret</string>

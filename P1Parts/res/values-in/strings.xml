@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Pengaturan lanjutan</string>
+  <string name="app_name">Pengaturan lanjut</string>
   <string name="category_tvout_title">TV Out</string>
   <string name="tvout_enable_head">TV Out</string>
   <string name="tvout_enable_summary_nocable">Kabel TV Out tidak terhubung</string>
@@ -25,12 +25,12 @@
   <string name="tvout_system_head">Sistem TV</string>
   <string name="tvout_system_summary">Menetapkan sistem TV Anda untuk TV Out</string>
   <string name="hdmi_dock_summary_nodock">Dock HDMI tidak terhubung</string>
-  <string name="hdmi_dock_summary">HDMI dock terhubung, cek untuk mengaktifkan</string>
-  <string name="hdmi_dock_summary_on">HDMI dock diaktifkan</string>
-  <string name="hdmi_dock_head">HDMI Dock</string>
-  <string name="button_reset_title">Set ulang</string>
+  <string name="hdmi_dock_summary">Dock HDMI terhubung, cek untuk mengaktifkan</string>
+  <string name="hdmi_dock_summary_on">Dock HDMI diaktifkan</string>
+  <string name="hdmi_dock_head">Dock HDMI</string>
+  <string name="button_reset_title">Kembalikan</string>
   <string name="generic_warning_title">Peringatan</string>
   <string name="imei_not_sane_title">Peringatan!</string>
   <string name="imei_not_sane_message">Masalah terdeteksi dengan perangkat Anda. Ponsel nomor IMEI tidak valid. Nomor IMEI yang tidak valid dapat menyebabkan masalah jaringan termasuk ketidakmampuan untuk memanggil nomor darurat.</string>
-  <string name="imei_not_sane_ok">Oke</string>
+  <string name="imei_not_sane_ok">OKE</string>
 </resources>

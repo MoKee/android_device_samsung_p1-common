@@ -24,11 +24,11 @@
   <string name="tvout_enable_summary_on">Saída de TV ativada</string>
   <string name="tvout_system_head">Sistema de TV</string>
   <string name="tvout_system_summary">Definir o sistema de TV para saída de TV</string>
-  <string name="hdmi_dock_summary_nodock">Doca HDMI não conetada</string>
-  <string name="hdmi_dock_summary">Doca HDMI conetada, selecione para ativar</string>
+  <string name="hdmi_dock_summary_nodock">Doca HDMI não conectada</string>
+  <string name="hdmi_dock_summary">Doca HDMI conectada, selecione para ativar</string>
   <string name="hdmi_dock_summary_on">Doca HDMI ativada</string>
   <string name="hdmi_dock_head">Doca HDMI</string>
-  <string name="button_reset_title">Reiniciar</string>
+  <string name="button_reset_title">Restaurar</string>
   <string name="generic_warning_title">Aviso</string>
   <string name="imei_not_sane_title">Aviso!</string>
   <string name="imei_not_sane_message">Foi detetado um problema com o seu dispositivo. O IMEI do dispositivo é inválido. Um IMEI inválido pode causar problemas de rede, incluindo a incapacidade de ligar para números de emergência.</string>

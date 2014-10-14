@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Rozšírené nastavenia</string>
+  <string name="app_name">Pokročilé nastavenia</string>
   <string name="category_tvout_title">TV výstup</string>
   <string name="tvout_enable_head">TV výstup</string>
   <string name="tvout_enable_summary_nocable">Kábel pre TV výstup nie je pripojený</string>
@@ -29,8 +29,8 @@
   <string name="hdmi_dock_summary_on">Povolený dok HDMI</string>
   <string name="hdmi_dock_head">Dok HDMI</string>
   <string name="button_reset_title">Obnoviť</string>
-  <string name="generic_warning_title">Upozornenie</string>
-  <string name="imei_not_sane_title">Varovanie</string>
-  <string name="imei_not_sane_message">Problém bol zistený u Vášho zariadenia. Číslo IMEI Vášho zariadenia je neplatné. Neplatné číslo IMEI môže spôsobiť problémy so sieťou, vrátane nemožnosti volať na tiesňové čísla.</string>
+  <string name="generic_warning_title">Varovanie</string>
+  <string name="imei_not_sane_title">Varovanie!</string>
+  <string name="imei_not_sane_message">Problém bol zistený u vášho zariadenia. Číslo IMEI vášho zariadenia je neplatné. Neplatné číslo IMEI môže spôsobiť problémy so sieťou, vrátane nemožnosti volať na tiesňové čísla.</string>
   <string name="imei_not_sane_ok">OK</string>
 </resources>

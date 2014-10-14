@@ -28,9 +28,9 @@
   <string name="hdmi_dock_summary">HDMI-dock verbonden, activeer om in te schakelen</string>
   <string name="hdmi_dock_summary_on">HDMI-dock ingeschakeld</string>
   <string name="hdmi_dock_head">HDMI-dock</string>
-  <string name="button_reset_title">Herstellen</string>
+  <string name="button_reset_title">Opnieuw instellen</string>
   <string name="generic_warning_title">Let op</string>
-  <string name="imei_not_sane_title">Let op</string>
-  <string name="imei_not_sane_message">Er is een probleem gevonden met uw telefoon. Het IMEI-nummer van uw telefoon is ongeldig. Hierdoor kunnen problemen optreden met uw mobiele netwerkverbinding, inclusief het niet kunnen bellen van het alarmnummer.</string>
+  <string name="imei_not_sane_title">Let op!</string>
+  <string name="imei_not_sane_message">Er is een probleem gevonden met uw toestel. Het IMEI-nummer van uw telefoon is ongeldig. Hierdoor kunnen problemen optreden met uw mobiele netwerkverbinding, inclusief het niet kunnen bellen van het alarmnummer.</string>
   <string name="imei_not_sane_ok">OK</string>
 </resources>
