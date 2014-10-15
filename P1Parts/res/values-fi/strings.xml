@@ -31,6 +31,6 @@
   <string name="button_reset_title">Palauta oletukset</string>
   <string name="generic_warning_title">Varoitus</string>
   <string name="imei_not_sane_title">Varoitus!</string>
-  <string name="imei_not_sane_message">Havaittiin ongelma laitteesi kanssa. Laitteesi IMEI-numero ei kelpaa. Virheellinen IMEI-numero voi aiheuttaa verkko-ongelmia, kuten estää soitot hätänumeroihin.</string>
+  <string name="imei_not_sane_message">Havaittiin ongelma laitteesi kanssa. Laitteesi IMEI-numero ei ole kelvollinen. Virheellinen IMEI-numero voi aiheuttaa verkko-ongelmia, kuten estää soitot hätänumeroihin.</string>
   <string name="imei_not_sane_ok">OK</string>
 </resources>

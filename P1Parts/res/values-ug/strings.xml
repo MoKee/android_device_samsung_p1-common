@@ -16,11 +16,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="hdmi_dock_summary_nodock">未連接 HDMI 座架</string>
-  <string name="hdmi_dock_summary_on">HDMI 座架已啟用</string>
-  <string name="hdmi_dock_head">HDMI 座架</string>
-  <string name="button_reset_title">重設</string>
-  <string name="generic_warning_title">警告</string>
-  <string name="imei_not_sane_title">警告</string>
-  <string name="imei_not_sane_ok">確定</string>
+  <string name="imei_not_sane_ok">جەزملە</string>
 </resources>

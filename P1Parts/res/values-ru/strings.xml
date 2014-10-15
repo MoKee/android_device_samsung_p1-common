@@ -16,21 +16,21 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Дополнительные настройки</string>
-  <string name="category_tvout_title">TB-выход</string>
-  <string name="tvout_enable_head">TB-выход</string>
-  <string name="tvout_enable_summary_nocable">Адаптер ТВ-выхода не подключен</string>
-  <string name="tvout_enable_summary">Адаптер ТВ-выхода подключен, нажмите для включения</string>
-  <string name="tvout_enable_summary_on">ТВ-выход включён</string>
+  <string name="app_name">Расширенные настройки</string>
+  <string name="category_tvout_title">ТВ-выход</string>
+  <string name="tvout_enable_head">ТВ-выход</string>
+  <string name="tvout_enable_summary_nocable">Адаптер ТВ-выхода не подключён</string>
+  <string name="tvout_enable_summary">Адаптер ТВ-выхода подключён, установите флажок для включения</string>
+  <string name="tvout_enable_summary_on">Передача изображения через ТВ-выход включена</string>
   <string name="tvout_system_head">Система ТВ</string>
-  <string name="tvout_system_summary">Установите систему вещания</string>
-  <string name="hdmi_dock_summary_nodock">HDMI док-станция не подключена</string>
-  <string name="hdmi_dock_summary">HDMI док-станция подключена, нажмите для включения</string>
-  <string name="hdmi_dock_summary_on">HDMI док-станция включена</string>
-  <string name="hdmi_dock_head">HDMI док-станция</string>
+  <string name="tvout_system_summary">Установка системы вещания для ТВ-выхода</string>
+  <string name="hdmi_dock_summary_nodock">Док-станция HDMI не подключена</string>
+  <string name="hdmi_dock_summary">Док-станция HDMI подключена, установите флажок для включения</string>
+  <string name="hdmi_dock_summary_on">Док-станция HDMI включена</string>
+  <string name="hdmi_dock_head">Док-станция HDMI</string>
   <string name="button_reset_title">Сброс</string>
   <string name="generic_warning_title">Внимание</string>
   <string name="imei_not_sane_title">Внимание!</string>
-  <string name="imei_not_sane_message">Обнаружена проблема! IMEI-номер недействителен. Недействительный IMEI может привести к сбоям в работе с оператором и невозможности вызова служб экстренной помощи.</string>
+  <string name="imei_not_sane_message">Обнаружена серьёзная проблема, IMEI-номер устройства недействителен. Недействительный IMEI может привести к сбоям в работе с сетью, включая обработку экстренных вызовов.</string>
   <string name="imei_not_sane_ok">OK</string>
 </resources>
