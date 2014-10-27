@@ -22,6 +22,8 @@
   <string name="tvout_enable_summary_nocable">Kabel nie jest podłączony do wyjścia TV</string>
   <string name="tvout_enable_summary">Kabel podłączony do wyjścia TV. Zaznacz, aby aktywować</string>
   <string name="tvout_enable_summary_on">Wyjście TV aktywne</string>
+  <string name="tvout_system_head">System TV</string>
+  <string name="tvout_system_summary">Ustaw system TV Out</string>
   <string name="hdmi_dock_summary_nodock">Stacja dokująca HDMI nie podłączona</string>
   <string name="hdmi_dock_summary">Stacja dokująca HDMI podłączona, zaznacz by włączyć</string>
   <string name="hdmi_dock_summary_on">Stacja dokująca HDMI włączona</string>
