@@ -17,5 +17,16 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Avancerade inställningar</string>
+  <string name="category_tvout_title">TV-ut</string>
   <string name="tvout_enable_head">TV-ut</string>
+  <string name="tvout_enable_summary_nocable">Kabeln för TV-ut är inte ansluten</string>
+  <string name="tvout_enable_summary_on">TV-ut aktiverat</string>
+  <string name="tvout_system_head">TV-system</string>
+  <string name="hdmi_dock_summary_nodock">HDMI-docka ej ansluten</string>
+  <string name="hdmi_dock_summary_on">HDMI-docka aktiverad</string>
+  <string name="hdmi_dock_head">HDMI-docka</string>
+  <string name="button_reset_title">Återställ</string>
+  <string name="generic_warning_title">Varning</string>
+  <string name="imei_not_sane_title">Varning!</string>
+  <string name="imei_not_sane_ok">OK</string>
 </resources>
